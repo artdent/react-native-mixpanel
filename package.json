@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/davodesign84/react-native-mixpanel/issues"
   },
+  "devDependencies": {
+    "babel-preset-react-native": "1.9.0"
+  },
   "homepage": "https://github.com/davodesign84/react-native-mixpanel#readme"
 }
